@@ -20,7 +20,7 @@ const loadDataFromLocalstorage = () => {
                            <p>Saiba tudo sobre alguém que você nunca mais viu: endereço atual,<br/> ocupação, se casou, se tem filhos ou mesmo se ainda está viva.</p>
                            <!-- <p>Inteligência artificial que analisa em detalhes o serviço que você precisa e<br/>mostra os profissionais mais indicados com valores e disponibilidades.</p> -->
                             <br/>
-                            <img src="images/banner.png" class="banner">
+                            <img src="images/banner2.png" class="banner">
                         </div>`
 
     document.getElementsByName('chat-input')[0].placeholder='Me diz que serviço está precisando?';                     

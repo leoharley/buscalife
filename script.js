@@ -15,7 +15,7 @@ const loadDataFromLocalstorage = () => {
     themeButton.innerText = document.body.classList.contains("light-mode") ? "dark_mode" : "light_mode";
 
     const defaultText = `<div class="default-text">
-                           <img src="img/logo_transparente.png" width="46vh" height=auto><span class="titulo_texto">Busca Quem Faz</span>
+                           <img src="img/logo_transparente.png" width="100%" height=auto>
                            <!-- <p>Inteligência artificial que analisa milhares de profissionais verificados<br/>e seleciona os mais qualificados e disponíveis para atender você.</p> -->
                            <p>Inteligência Artificial de verificação e indicação de profissionais,<br/>mostra o grau de recomendação, valor do serviço e disponibilidade.</p>
                            <!-- <p>Inteligência artificial que analisa em detalhes o serviço que você precisa e<br/>mostra os profissionais mais indicados com valores e disponibilidades.</p> -->

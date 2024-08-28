@@ -28,7 +28,7 @@ class Api extends BaseController
         if ($requestText == 'eu quero doce') {
             $aiResponse = 'to nem ai';
         } else {
-            if(!isValidName($requestText)){
+            if(!$this->isValidName($requestText)){
                 $aiResponse = 'Esse não é o nome válido de uma pessoa, informe o nome completo da pessoa que quer localizar';                
             }
             else {

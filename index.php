@@ -316,27 +316,27 @@
             <span class="close2">&times;</span>
             <div style="color:#808080;margin-top:-20px">
 
-            <strong><h3>Política de Privacidade do "Busca Quem Faz"</h3></strong><br/>
+            <strong><h3>Política de Privacidade do "BuscaLife"</h3></strong><br/>
 
-            Esta Política de Privacidade descreve como nós do Busca Quem Faz, coletamos, usamos e protegemos suas informações pessoais quando você utiliza nosso site de indicação de profissionais. Valorizamos sua privacidade e estamos comprometidos em proteger seus dados pessoais.<br/><br/>
+            Esta Política de Privacidade descreve como nós, do BuscaLife, coletamos, usamos e protegemos suas informações pessoais quando você utiliza nosso site para localizar pessoas utilizando inteligência artificial. Valorizamos sua privacidade e estamos comprometidos em proteger seus dados pessoais.<br/><br/>
 
             <strong>1. Informações Coletadas</strong>
 
-            <p style="margin-left:20px">a. Informações Fornecidas por Você: Coletamos informações que você nos fornece voluntariamente ao se cadastrar no site, como nome, endereço de e-mail, telefone, cidade e outras informações relevantes.</p>
+            <p style="margin-left:20px">a. Informações Fornecidas por Você: Coletamos informações que você nos fornece voluntariamente ao se cadastrar no site, como nome, endereço de e-mail, telefone e outras informações relevantes para localizar pessoas.</p>
             <p style="margin-left:20px">b. Informações de Uso: Coletamos automaticamente certas informações sobre seu uso do site, incluindo seu endereço IP, tipo de navegador, páginas visitadas, tempo gasto em cada página e dados de dispositivos utilizados para acessar o site.</p>
-            
+
             <br/>
             <strong>2. Uso das Informações</strong>
 
-            <p style="margin-left:20px">a. Utilizamos suas informações para operar e manter o site, incluindo o processamento de suas indicações de profissionais.</p>
+            <p style="margin-left:20px">a. Utilizamos suas informações para operar e manter o site, incluindo a análise de dados para localizar pessoas e fornecer resultados relevantes.</p>
             <p style="margin-left:20px">b. Podemos utilizar suas informações para entrar em contato com você sobre o seu uso do site, enviar atualizações sobre nossos serviços ou responder a suas perguntas e solicitações.</p>
             <p style="margin-left:20px">c. Utilizamos informações de uso para melhorar o desempenho do site, personalizar sua experiência e realizar análises para fins internos.</p>
-            
+
             <br/>
             <strong>3. Compartilhamento de Informações</strong>
 
             <p style="margin-left:20px">a. Não vendemos, alugamos ou negociamos suas informações pessoais com terceiros para fins de marketing sem seu consentimento explícito.</p>
-            <p style="margin-left:20px">b. Podemos compartilhar suas informações pessoais com prestadores de serviços que nos ajudam a operar o site ou realizar funções em nosso nome, como processamento de pagamentos ou envio de e-mails.</p>
+            <p style="margin-left:20px">b. Podemos compartilhar suas informações pessoais com prestadores de serviços que nos ajudam a operar o site ou realizar funções em nosso nome, como processamento de dados e suporte técnico.</p>
             <p style="margin-left:20px">c. Podemos divulgar suas informações pessoais se formos obrigados por lei ou se acreditarmos que tal divulgação é necessária para proteger nossos direitos legais, segurança ou a segurança de outros.</p>
 
             <br/>
@@ -344,24 +344,24 @@
 
             <p style="margin-left:20px">a. Implementamos medidas de segurança adequadas para proteger suas informações pessoais contra acesso não autorizado, alteração, divulgação ou destruição.</p>
             <p style="margin-left:20px">b. No entanto, nenhum método de transmissão pela Internet ou método de armazenamento eletrônico é completamente seguro. Portanto, não podemos garantir segurança absoluta das informações.</p>
-            
+
             <br/>
             <strong>5. Seus Direitos</strong>
 
             <p style="margin-left:20px">a. Você tem o direito de acessar, corrigir, atualizar ou excluir suas informações pessoais a qualquer momento.</p>
             <p style="margin-left:20px">b. Se desejar exercer esses direitos ou tiver dúvidas sobre nossas práticas de privacidade, entre em contato conosco através dos métodos descritos abaixo.</p>
-            
+
             <br/>
             <strong>6. Alterações nesta Política</strong>
 
             <p style="margin-left:20px">a. Podemos atualizar esta Política de Privacidade periodicamente para refletir mudanças em nossas práticas de informação. Recomendamos revisar esta página regularmente para estar ciente de quaisquer atualizações.</p>
-            
+
             <br/>
             <strong>7. Contato</strong>
 
-            <p style="margin-left:20px">Se você tiver perguntas, preocupações ou sugestões sobre esta Política de Privacidade ou nossas práticas de privacidade, entre em contato conosco através do e-mail: atendimento@buscaquemfaz.com.br</p>
-                        
-            <br/>            
+            <p style="margin-left:20px">Se você tiver perguntas, preocupações ou sugestões sobre esta Política de Privacidade ou nossas práticas de privacidade, entre em contato conosco através do e-mail: atendimento@busca.life</p>
+
+            <br/>
             <p>Esta Política de Privacidade entra em vigor a partir da data de publicação e se aplica a todas as informações coletadas através do nosso site.</p>
 
             </div>

@@ -8,7 +8,7 @@ include "functions/init.php";
 	<title>Document</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0">
 	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/styles.css?ver=1.1">
 	<script src="js/jquery.js"></script>
 	<script src="js/bootstrap.js"></script>
 	<script src="js/scripts.js"></script>

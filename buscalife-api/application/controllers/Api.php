@@ -23,16 +23,17 @@ class Api extends BaseController
 
     public function chatbot()
     {   
+        session_start();        
         $requestText = $this->input->post('requestText')?$this->input->post('requestText'):0;
 
         if ($requestText == 'eu quero doce') {
             $aiResponse = 'to nem ai';
         } else {
             if(!$this->isValidName($requestText)){
-                $aiResponse = 'Qual é o nome completo dessa pessoa que você quer que eu procure?';                
+                $aiResponse = 'Qual é o nome completo dessa pessoa que você quer que eu procure?aqui:'.session_id();                
             }
             else {
-                $aiResponse = 'Certo. Você teria mais alguma informação dessa pessoa? CPF, telefone, etc...';                
+                $aiResponse = 'Certo. Você teria mais alguma informação dessa pessoa? CPF, telefone, etc...aqui'.session_id();                
             }
         }
 

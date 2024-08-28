@@ -28,7 +28,7 @@ class Api extends BaseController
         if ($requestText == 'eu quero doce') {
             $aiResponse = 'to nem ai';
         } else {
-            if ($this->nameCheck($requestText) < 5) {
+            if ($this->nameCheck($requestText) < 4) {
                 $aiResponse = 'Não é nome';
             } else {
                 $aiResponse = 'é nome';

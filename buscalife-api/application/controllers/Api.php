@@ -28,9 +28,7 @@ class Api extends BaseController
         if ($requestText == 'eu quero doce') {
             $aiResponse = 'to nem ai';
         } else {
-            echo preg_match("^[A-Z][a-z]{2,9}_[A-Z][a-z]{2,9}$", $this->nameCheck($requestText));
-            exit;
-            if(preg_match("^[A-Z][a-z]{2,9}_[A-Z][a-z]{2,9}$", $this->nameCheck($requestText))) {
+            if(preg_match("^[A-Z][a-z]{2,9}_[A-Z][a-z]{2,9}$", $requestText)) {
                 $aiResponse = 'Não é nome';
             }
             else {

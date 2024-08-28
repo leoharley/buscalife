@@ -48,7 +48,7 @@ const createChatElement = (content, className) => {
 }
 
 const getChatResponse = async (incomingChatDiv) => {
-    const API_URL = "http://localhost/bqf-api/chatbot";
+    const API_URL = "https://busca.life/buscalife-api/chatbot";
     const pElement = document.createElement("p");
 
     const formData = new FormData();

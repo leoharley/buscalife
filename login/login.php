@@ -21,7 +21,7 @@ login_check_pages();
                         <div class="row">
                             <div class="col-xs-12">
                                 <div style="text-align:center">
-                                    <img src="img/logo.png" style="margin-top:20px;width:10%;height: auto;">
+                                    <img src="img/logo.png?ver=1.2" class="logo">
                                 </div>
                                 <div class="panel-heading">
                                     <h3 class="pt-4 font-weight-bold">Seja Bem-Vindo(a)</h3>
@@ -68,7 +68,7 @@ login_check_pages();
                                         <div class="row">
                                             <div class="col-sm-6 col-sm-offset-3">
                                                 <input type="submit" name="login-submit" id="login-submit" tabindex="4"
-                                                    class="form-control btn btn-login" value="Entrar">
+                                                    class="form-control btn btn-primary" value="Entrar">
                                             </div>
                                         </div>
                                     </div>                                    

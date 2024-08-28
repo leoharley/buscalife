@@ -21,7 +21,7 @@ login_check_pages();
                             </div>-->
                             <div class="col-xs-12">
                                 <div style="text-align:center">
-                                    <img src="img/logo.png?ver=1.1" class="logo">
+                                    <img src="img/logo.png?ver=1.2" class="logo">
                                 </div>
                                 <div class="panel-heading">
                                     <h3 class="pt-4 font-weight-bold">Fazer o cadastro</h3>
@@ -62,7 +62,7 @@ login_check_pages();
                                         <div class="row">
                                             <div class="col-sm-6 col-sm-offset-3">
                                                 <input type="submit" name="register-submit" id="register-submit"
-                                                    tabindex="4" class="form-control btn btn-register"
+                                                    tabindex="4" class="form-control btn btn-primary"
                                                     value="Cadastrar">
                                             </div>
                                         </div>

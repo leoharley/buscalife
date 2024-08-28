@@ -35,7 +35,7 @@ class Api extends BaseController
                 $aiResponse = 'Com esse nome não consigo localizar, qual é o nome completo da pessoa?';                
             }
             else {
-                $aiResponse = 'Certo. Você teria mais alguma informação dessa pessoa? CPF, telefone, etc...';                
+                $aiResponse = 'Certo. Você teria mais alguma informação para facilitar a busca? CPF, telefone, etc...';                
             }
         }
 

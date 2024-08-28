@@ -287,6 +287,18 @@ span.material-symbols-rounded {
     font-weight:640!important;
   }
 
+  .default-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 70vh;
+    padding: 0;
+    text-align: center;
+    color: var(--text-color);
+    margin-top:-40px;
+  }
+
   .default-text h1 {
     font-size: 2.3rem;
   }

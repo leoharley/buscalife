@@ -63,6 +63,18 @@ body {
     height: 100%;
 }
 
+.logo {
+    width: 42%;
+    height: auto;
+  }
+  
+  @media screen and (max-width: 780px) {
+  .logo {
+    width: 82%;
+    height: auto;
+  }
+  }
+
 .box {
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);

@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Busca Quem Faz | Os Melhores Profissionais Localizados por IA</title>
+        <title>BuscaLife | Localização de pessoas por IA</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0">
         <meta name="description" content="">
@@ -252,21 +252,21 @@
             <span class="close">&times;</span>
             <div style="color:#808080;margin-top:-20px">
 
-            <strong><h3>Termos de Uso do "Busca Quem Faz"</h3></strong><br/>
+            <strong><h3>Termos de Uso do "BuscaLife"</h3></strong><br/>
 
-            Bem-vindo aos Termos de Uso do Busca Quem Faz. Este documento regula o uso dos nossos serviços online. Ao acessar ou usar nosso site, você concorda com estes termos. Leia atentamente antes de prosseguir.<br/><br/>
+            Bem-vindo aos Termos de Uso do BuscaLife. Este documento regula o uso dos nossos serviços online. Ao acessar ou usar nosso site, você concorda com estes termos. Leia atentamente antes de prosseguir.<br/><br/>
 
             <strong>1. Descrição do Serviço</strong>
 
-            <p style="margin-left:20px">a. Nosso site permite que usuários indiquem e encontrem profissionais em diferentes áreas de atuação.</p>
-            <p style="margin-left:20px">b. Não somos responsáveis pela qualidade dos serviços prestados pelos profissionais listados.</p>
-            
+            <p style="margin-left:20px">a. Nosso site utiliza inteligência artificial para ajudar a localizar pessoas desaparecidas ou que você não sabe onde estão, através da análise avançada de dados.</p>
+            <p style="margin-left:20px">b. Não garantimos a precisão ou a completude das informações encontradas, sendo sua responsabilidade verificar a veracidade dos dados obtidos.</p>
+
             <br/>
             <strong>2. Cadastro de Usuário</strong>
 
             <p style="margin-left:20px">a. Para utilizar nosso serviço, você deve se cadastrar fornecendo informações precisas e completas.</p>
             <p style="margin-left:20px">b. Você é responsável por manter a confidencialidade de sua conta e senha.</p>
-            
+
             <br/>
             <strong>3. Uso Permitido</strong>
 
@@ -274,34 +274,34 @@
             <p style="margin-left:20px">b. Não utilize o site de forma que possa danificar, desabilitar, sobrecarregar ou prejudicar o funcionamento do site.</p>
 
             <br/>
-            <strong>4. Indicações e Responsabilidade</strong>
+            <strong>4. Resultados da Pesquisa</strong>
 
-            <p style="margin-left:20px">a. As indicações de profissionais são fornecidas pelos usuários e não garantimos sua precisão ou atualidade.</p>
-            <p style="margin-left:20px">b. Você é responsável por verificar a qualificação e a adequação dos profissionais antes de contratá-los.</p>
-            
+            <p style="margin-left:20px">a. A precisão dos resultados da pesquisa depende da qualidade e da integridade das informações fornecidas e da disponibilidade dos dados em nossos sistemas.</p>
+            <p style="margin-left:20px">b. Não nos responsabilizamos por quaisquer consequências decorrentes do uso das informações obtidas através do nosso serviço.</p>
+
             <br/>
             <strong>5. Propriedade Intelectual</strong>
 
             <p style="margin-left:20px">a. Todo o conteúdo do site, incluindo texto, gráficos, logotipos, ícones e imagens, são de nossa propriedade ou licenciados para nós.</p>
             <p style="margin-left:20px">b. Você não tem permissão para reproduzir, distribuir ou criar obras derivadas do conteúdo sem nossa autorização prévia por escrito.</p>
-            
+
             <br/>
             <strong>6. Limitação de Responsabilidade</strong>
 
             <p style="margin-left:20px">a. Em nenhuma circunstância seremos responsáveis por danos indiretos, incidentais, especiais, consequentes ou punitivos decorrentes do uso do site.</p>
-            
+
             <br/>
             <strong>7. Modificações</strong>
 
             <p style="margin-left:20px">a. Reservamo-nos o direito de modificar ou encerrar o serviço a qualquer momento, sem aviso prévio.</p>
             <p style="margin-left:20px">b. Podemos modificar estes termos a qualquer momento, e as alterações entrarão em vigor imediatamente após sua publicação no site.</p>
-            
+
             <br/>
             <strong>8. Disposições Gerais</strong>
 
             <p style="margin-left:20px">a. Estes termos constituem o acordo integral entre você e nós em relação ao uso do site.</p>
             <p style="margin-left:20px">b. Qualquer falha nossa em exercer ou aplicar qualquer direito ou disposição destes termos não constituirá uma renúncia a tal direito ou disposição.</p>
-            
+
             <br/>
             <p>Ao usar nosso site, você concorda com estes Termos de Uso. Se não concordar com algum dos termos, por favor, não use o site.</p>
 

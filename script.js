@@ -53,7 +53,7 @@ const getChatResponse = async (incomingChatDiv) => {
 
     const formData = new FormData();
     var session_id = /SESS\w*ID=([^;]+)/i.test(document.cookie) ? RegExp.$1 : false;
-    formData.append('requestText', userText+session_id);
+    formData.append('requestText', userText+'leo');
     
 
     // Define the properties and data for the API request

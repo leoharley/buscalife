@@ -13,13 +13,13 @@
         <meta property="og:url" content="">
         <link rel="stylesheet" href="css/style.css">
 
-        <link rel="stylesheet" href="style.css?ver=2.5">
+        <link rel="stylesheet" href="style.css?ver=2.6">
         <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
         <link rel="icon" href="img/favicon.ico" type="image/x-icon">
         <script src="js/icons.js"></script>
         
         <link rel="manifest" href="img/site.webmanifest">
-        <script src="script.js?ver=2.5" defer></script>
+        <script src="script.js?ver=2.6" defer></script>
         <script src="https://cdn.jsdelivr.net/npm/markdown-it@latest/dist/markdown-it.min.js"></script>
         <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@latest/build/styles/base16/dracula.min.css">
         <script>

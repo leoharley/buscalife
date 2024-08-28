@@ -26,14 +26,16 @@ class Api extends BaseController
         $this->load->library('session');       
         $requestText = $this->input->post('requestText')?$this->input->post('requestText'):0;
 
+        //$this->session->session_id;
+
         if ($requestText == 'eu quero doce') {
             $aiResponse = 'to nem ai';
         } else {
             if(!$this->isValidName($requestText)){
-                $aiResponse = 'Qual é o nome completo dessa pessoa que você quer que eu procure?aqui:'.$this->session->session_id;                
+                $aiResponse = 'Qual é o nome completo dessa pessoa que você quer que eu procure?';                
             }
             else {
-                $aiResponse = 'Certo. Você teria mais alguma informação dessa pessoa? CPF, telefone, etc...aqui'.$this->session->session_id;                
+                $aiResponse = 'Certo. Você teria mais alguma informação dessa pessoa? CPF, telefone, etc...';                
             }
         }
 

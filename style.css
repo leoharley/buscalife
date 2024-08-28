@@ -52,7 +52,7 @@ a:-webkit-any-link {
   height: auto;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 780px) {
 .logo {
   width: 82%;
   height: auto;

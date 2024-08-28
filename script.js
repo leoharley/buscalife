@@ -43,7 +43,7 @@ const createChatElement = (content, className) => {
     const chatDiv = document.createElement("div");
     chatDiv.classList.add("chat", className);    
     chatDiv.innerHTML = content;
-    document.getElementsByName('chat-input')[0].placeholder='Digite aqui a sua mensagem';    
+    document.getElementsByName('chat-input')[0].placeholder='Quem você quer localizar?';    
     return chatDiv; // Return the created chat div
 }
 

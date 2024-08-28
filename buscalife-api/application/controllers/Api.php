@@ -29,7 +29,7 @@ class Api extends BaseController
             $aiResponse = 'to nem ai';
         } else {
             if(!$this->isValidName($requestText)){
-                $aiResponse = 'Esse não é o nome válido de uma pessoa, informe o nome completo da pessoa que quer localizar';                
+                $aiResponse = 'Qual é o nome completo dessa pessoa que você quer que eu procure?';                
             }
             else {
                 $aiResponse = 'Certo. Você teria mais alguma informação dessa pessoa para fornecer? CPF, telefone, etc...';                

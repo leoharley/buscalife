@@ -9,7 +9,8 @@ const API_KEY = ""; // Paste your API key here
 
 const loadDataFromLocalstorage = () => {
     // Load saved chats and theme from local storage and apply/add on the page
-    const themeColor = localStorage.getItem("themeColor");
+    //const themeColor = localStorage.getItem("themeColor");
+    const themeColor = "light_mode";
 
     document.body.classList.toggle("light-mode", themeColor === "light_mode");
     themeButton.innerText = document.body.classList.contains("light-mode") ? "dark_mode" : "light_mode";

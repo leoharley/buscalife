@@ -28,7 +28,7 @@ class Api extends BaseController
         if ($requestText == 'eu quero doce') {
             $aiResponse = 'to nem ai';
         } else {
-            if(preg_match('^[A-Z][a-z]{2,9}_[A-Z][a-z]{2,9}$', $requestText)){
+            if(!isValidName($requestText)){
                 $aiResponse = 'Esse não é o nome válido de uma pessoa, informe o nome completo da pessoa que quer localizar';                
             }
             else {
@@ -40,6 +40,24 @@ class Api extends BaseController
 
         echo json_encode($data); 
 
+    }
+
+    function isValidName($name) {
+        // Remove espaços extras do início e do fim
+        $name = trim($name);
+    
+        // Verifica se o nome não está vazio e contém pelo menos duas palavras
+        if (empty($name) || str_word_count($name) < 2) {
+            return false;
+        }
+    
+        // Verifica se o nome contém apenas letras, espaços e alguns caracteres especiais
+        // O regex permite letras (maiúsculas e minúsculas), acentos, espaços e apóstrofos
+        if (preg_match('/^[a-zA-ZÀ-ÿ\'\s-]+$/u', $name)) {
+            return true;
+        }
+    
+        return false;
     }
 
 }

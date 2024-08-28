@@ -21,7 +21,7 @@ login_check_pages();
                             </div>-->
                             <div class="col-xs-12">
                                 <div style="text-align:center">
-                                    <img src="img/logo.png?ver=1.1" style="margin-top:20px;width:40vw;height: auto;">
+                                    <img src="img/logo.png?ver=1.1" style="margin-top:20px;width:10vw;height: auto;">
                                 </div>
                                 <div class="panel-heading">
                                     <h3 class="pt-4 font-weight-bold">Fazer o cadastro</h3>

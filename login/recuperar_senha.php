@@ -13,7 +13,7 @@ login_check_pages();
 								<div class="col-lg-12">									
 									<div class="col-xs-12">
 										<div style="text-align:center">
-											<img src="img/logo.png" style="margin-top:20px;width:9%;height: auto;">
+											<img src="img/logo.png?ver=1.3" class="logo">
 										</div>
 										<div style="text-align:center">
 											<h3 class="pt-4 font-weight-bold">Recuperar senha</h3>
@@ -30,7 +30,7 @@ login_check_pages();
 													<input type="submit" name="cancel-submit" id="cencel-submit" tabindex="2" class="form-control btn btn-danger" value="Cancelar" />
 												</div>
 												<div class="col-lg-6 col-sm-6 col-xs-6">
-													<input type="submit" name="recover-submit" id="recover-submit" tabindex="2" class="form-control btn btn-success" value="Enviar link de recuperação" />
+													<input type="submit" name="recover-submit" id="recover-submit" tabindex="2" class="form-control btn btn-primary" value="Enviar link de recuperação" />
 												</div>
 											</div>
 										</div>

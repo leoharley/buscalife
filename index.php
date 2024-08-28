@@ -15,7 +15,7 @@
 
         <link rel="stylesheet" href="style.css?ver=2.6">
         <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-        <link rel="icon" href="img/favicon.ico?ver=2.6" type="image/x-icon">
+        <link rel="icon" href="img/favicon.ico?ver=2.7" type="image/x-icon">
         <script src="js/icons.js"></script>
         
         <link rel="manifest" href="img/site.webmanifest">

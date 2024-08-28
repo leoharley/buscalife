@@ -318,6 +318,9 @@ span.material-symbols-rounded {
   .chat .chat-content:not(:has(.typing-animation), :has(.error)) span {
     visibility: visible;
   }
+  .chat-container {
+    padding-right: 0px;
+  }
   .typing-container {
     padding: 15px 15px;
     width: 88%;

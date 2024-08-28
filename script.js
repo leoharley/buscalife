@@ -18,7 +18,7 @@ const loadDataFromLocalstorage = () => {
     const defaultText = `<div class="default-text">
                            <img src="img/logo_transparente.png" class="logo">
                            <!-- <p>Idsateligência artificial que analisa milhares de profissionais verificados<br/>e seleciona os mais qualificados e disponíveis para atender você.</p> -->
-                           <p>Busca avançada por inteligência artificial que ajuda a<br>localizar pessoas desaparecidas ou que você não sabe onde estão.</p>
+                           <p>Serviço de busca por inteligência artificial que ajuda a<br>localizar pessoas desaparecidas ou que você não sabe onde estão.</p>
                            <!-- <p>Inteligência artificial que analisa em detalhes o serviço que você precisa e<br/>mostra os profissionais mais indicados com valores e disponibilidades.</p> -->
                             <br/>
                             <img src="images/banner3.png" class="banner">

@@ -184,7 +184,7 @@
                         </button>
                     
                         <button class="entrar_btn" id="entrar_btn" onclick="go_login()">
-                            <span>Edsntrar</span>
+                            <span>Entrar</span>
                         </button>
                         ';
                     } else {

@@ -19,7 +19,7 @@
         <script src="js/icons.js"></script>
         
         <link rel="manifest" href="img/site.webmanifest">
-        <script src="script.js?ver=2.8" defer></script>
+        <script src="script.js?ver=2.9" defer></script>
         <script src="https://cdn.jsdelivr.net/npm/markdown-it@latest/dist/markdown-it.min.js"></script>
         <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@latest/build/styles/base16/dracula.min.css">
         <script>

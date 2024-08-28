@@ -52,13 +52,6 @@ a:-webkit-any-link {
   height: auto;
 }
 
-@media screen and (max-width: 780px) {
-.logo {
-  width: 82%;
-  height: auto;
-}
-}
-
 .banner {
   width:76%;
   height:auto;
@@ -266,7 +259,7 @@ span.material-symbols-rounded {
 }
 
 /* Reponsive Media Query */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 780px) {
   .msg_termos {
     position: fixed;
     color: #808080;
@@ -276,6 +269,11 @@ span.material-symbols-rounded {
     left: 6%;
     right: 0px;
     margin-bottom: 38px;
+  }
+
+  .logo {
+    width: 88%;
+    height: auto;
   }
 
   .banner {

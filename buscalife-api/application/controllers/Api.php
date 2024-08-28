@@ -42,7 +42,7 @@ class Api extends BaseController
 
     }
 
-    function isValidName($name) {
+    public function isValidName($name) {
         // Remove espaços extras do início e do fim
         $name = trim($name);
     

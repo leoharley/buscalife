@@ -125,7 +125,7 @@ body {
 
 .logo {
 	margin-top:20px;
-	width:20vw;
+	width:50%;
 	height: auto;
 }
 
@@ -133,7 +133,7 @@ body {
 @media screen and (max-width: 780px) {
 	.logo {
 		margin-top:20px;
-		width:35vw;
+		width:60%;
 		height: auto;
 	}
 }

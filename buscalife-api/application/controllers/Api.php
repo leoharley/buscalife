@@ -30,10 +30,10 @@ class Api extends BaseController
             $aiResponse = 'to nem ai';
         } else {
             if(!$this->isValidName($requestText)){
-                $aiResponse = 'Qual é o nome completo dessa pessoa que você quer que eu procure?aqui:'.session_id();                
+                $aiResponse = 'Qual é o nome completo dessa pessoa que você quer que eu procure?aqui:'.$_SESSION['id'];                
             }
             else {
-                $aiResponse = 'Certo. Você teria mais alguma informação dessa pessoa? CPF, telefone, etc...aqui'.session_id();                
+                $aiResponse = 'Certo. Você teria mais alguma informação dessa pessoa? CPF, telefone, etc...aqui'.$_SESSION['id'];                
             }
         }
 

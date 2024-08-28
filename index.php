@@ -6,11 +6,11 @@
         <title>Busca Quem Faz | Os Melhores Profissionais Localizados por IA</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0">
-        <meta name="description" content="A conversational AI system that listens, learns, and challenges">
-        <meta property="og:title" content="Busca Quem Faz">
+        <meta name="description" content="">
+        <meta property="og:title" content="BuscaLife">
         <meta property="og:image" content="">
-        <meta property="og:description" content="A conversational AI system that listens, learns, and challenges">
-        <meta property="og:url" content="https://chat.acy.dev">
+        <meta property="og:description" content="">
+        <meta property="og:url" content="">
         <link rel="stylesheet" href="css/style.css">
 
         <link rel="stylesheet" href="style.css?ver=2.5">

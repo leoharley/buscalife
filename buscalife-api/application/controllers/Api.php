@@ -28,9 +28,10 @@ class Api extends BaseController
         if ($requestText == 'eu quero doce') {
             $aiResponse = 'to nem ai';
         } else {
-            if ($this->nameCheck($requestText) < 4) {
+            if(preg_match('/[bcdfghjklmnpqrtsvwxyz]{4}|[aeiou]{4}|([a-z])\1{2}/i',$this->nameCheck($requestText))){
                 $aiResponse = 'Não é nome';
-            } else {
+            }
+            else {
                 $aiResponse = 'é nome';
             }
         }
@@ -39,40 +40,6 @@ class Api extends BaseController
 
         echo json_encode($data); 
 
-    }
-
-    function nameCheck($var) {
-        $nameScore = 0;
-        //If name < 4 score + '3'
-        $chars_count = strlen($var);
-        $consonants = preg_replace('![^BCDFGHJKLMNPQRSTVWXZ]!i','',$var);
-        $consonant_count = strlen($consonants);
-        $vowels = preg_replace('![^AEIOUY]!i','',$var);
-        $vowel_count = strlen($vowels);
-        //We're expecting first and last name.
-        if ($chars_count < 4){
-            $nameScore = $nameScore + 3;    
-        }
-
-        //if name > 4 and no spaces score + '4'
-        if (($chars_count > 4)&& (!preg_match('![ ]!',$var))){
-            $nameScore = $nameScore + 4;    
-        }
-
-        if (($chars_count > 4)&&(($consonant_count==0)||($vowel_count==0))){
-            $nameScore = $nameScore + 5;            
-        }
-
-        //if name > 4 and vowel to consonant ratio < 1/8 score + '5'
-        if (($consonant_count > 0) && ($vowel_count > 0) && ($chars_count > 4) && ($vowel_count/$consonant_count < 1/8)){
-            $nameScore = $nameScore + 5;    
-        }
-        //Needs at least 1 letter.
-        if (!preg_match('![A-Za-z]!',$var)){
-            $nameScore = $nameScore + 10;           
-        }
-
-        return $nameScore;
     }
 
 }

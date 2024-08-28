@@ -1,5 +1,4 @@
 <?php
-exit;
 $con = mysqli_connect('localhost', 'u773789177_buscalife', '%Buscalife2024', 'u773789177_buscalife');
 $url = "https://busca.life/";
 function createTabel(){
@@ -15,7 +14,7 @@ function createTabel(){
                 activition tinyint(4)  NOT NULL Default 0)";
     $con->query($query);
 }
-createTabel();
+//createTabel();
 
 function escape($string)
 {

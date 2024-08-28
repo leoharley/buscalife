@@ -124,5 +124,20 @@ body {
 }
 
 
+.logo {
+	margin-top:20px;
+	width:20vw;
+	height: auto;
+}
+
+/* Reponsive Media Query */
+@media screen and (max-width: 780px) {
+	.logo {
+		margin-top:20px;
+		width:35vw;
+		height: auto;
+	}
+}
+
 
 

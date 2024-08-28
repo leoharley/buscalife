@@ -1,4 +1,5 @@
 <?php
+exit;
 $con = mysqli_connect('localhost', 'u773789177_buscalife', '%Buscalife2024', 'u773789177_buscalife');
 $url = "https://busca.life/";
 function createTabel(){

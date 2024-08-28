@@ -32,7 +32,7 @@ class Api extends BaseController
                 $aiResponse = 'Qual é o nome completo dessa pessoa que você quer que eu procure?';                
             }
             else {
-                $aiResponse = 'Certo. Você teria mais alguma informação dessa pessoa para fornecer? CPF, telefone, etc...';                
+                $aiResponse = 'Certo. Você teria mais alguma informação dessa pessoa? CPF, telefone, etc...';                
             }
         }
 

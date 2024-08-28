@@ -28,7 +28,7 @@ class Api extends BaseController
         if ($requestText == 'eu quero doce') {
             $aiResponse = 'to nem ai';
         } else {
-            if(preg_match('/(.)\\1\\1/i', $requestText)){
+            if(preg_match("^[A-Z][a-z]{2,9}_[A-Z][a-z]{2,9}$", $requestText)){
                 $aiResponse = 'Esse não é o nome válido de uma pessoa, informe o nome completo da pessoa que quer localizar';                
             }
             else {

@@ -28,8 +28,8 @@ class Api extends BaseController
         if ($requestText == 'eu quero doce') {
             $aiResponse = 'to nem ai';
         } else {
-            $aiResponse = $this->nameCheck($requestText);
-            //$aiResponse = 'e dai';
+            //$aiResponse = $this->nameCheck($requestText);
+            $aiResponse = 'e dai';
         }
 
         $data['responseText'] =  $aiResponse;

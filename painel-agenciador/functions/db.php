@@ -1,6 +1,6 @@
 <?php
-$con = mysqli_connect('localhost', 'leoharley', '150150', 'bqf_db');
-$url = "http://localhost/";
+$con = mysqli_connect('localhost', 'u773789177_buscalife', '%Buscalife2024', 'u773789177_buscalife');
+$url = "https://busca.life/";
 
 function escape($string)
 {

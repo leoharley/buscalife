@@ -29,10 +29,10 @@ class Api extends BaseController
             $aiResponse = 'to nem ai';
         } else {
             if(preg_match('/[bcdfghjklmnpqrtsvwxyz]{4}|[aeiou]{4}|([a-z])\1{2}/i',$requestText)){
-                $aiResponse = 'Não é nome';
+                $aiResponse = 'Esse não é o nome válido de uma pessoa, informe o nome completo da pessoa que quer localizar';
             }
             else {
-                $aiResponse = 'é nome';
+                $aiResponse = 'Certo. Você teria mais alguma informação dessa pessoa para fornecer? CPF, telefone, etc...';
             }
         }
 

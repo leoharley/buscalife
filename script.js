@@ -23,7 +23,7 @@ const loadDataFromLocalstorage = () => {
                             <img src="images/banner3.png" class="banner">
                         </div>`
 
-    document.getElementsByName('chat-input')[0].placeholder='Me diz que serviço está precisando?';                     
+    document.getElementsByName('chat-input')[0].placeholder='Qual o nome e sobrenome da pessoa que quer encontrar?';                     
 
     /*const defaultText2 = `<div class="chat incoming"><div class="chat-content">
                     <div class="chat-details">
